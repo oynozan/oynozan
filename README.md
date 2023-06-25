@@ -10,5 +10,5 @@ I have a solid experience in backend development with PHP and Node.js. I've work
 
 Besides the multiple jobs I'm working on, I also develop personal projects right now. One of them is related to artificial intelligence since it's quite popular nowadays. I'll keep developing both personal and commercial projects until I graduate from university.
 
-My Portfolio: [oynozan](https://oynozan.com/)__
+My Portfolio: [oynozan](https://oynozan.com/)
 My Coding Blog (Turkish): [Kodlayan](https://www.kodlayan.com/)
