@@ -22,7 +22,7 @@ My Coding Blog: [Epoir](https://epoir.com/blog)
 <a href="https://linkedin.com/in/ozanandac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozanandac" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11613352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11613352" height="30" width="40" /></a>
 <a href="https://instagram.com/oynozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oynozan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oynozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oynozan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCoJxPJOxvRcV8CYxQ2fKMAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oynozan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oynozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oynozan" height="30" width="40" /></a>
 </p>
 
