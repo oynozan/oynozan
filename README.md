@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ozan</h1>
-<h3 align="center">Fullstack Web Developer with 4+ years of experience</h3>
+<h3 align="center">Fullstack Web Developer with 5+ years of experience</h3>
 
 Hi, I'm Ozan Andaç. I'm currently studying as an Industrial Engineering student at Yıldız Teknik University and working as a Fullstack Web Developer.
 
-To talk about my past experiences and career development, I can call myself a Full-stack Web Developer with more than 4 years of experience. I've done dozens of personal projects such as websites with both backend and frontend, PHP/Python scripts, automation apps, desktop applications, server setup (NGINX configuration, reverse proxy, load balancers), and coding challenges.
+To talk about my past experiences and career development, I am a Full-stack Web Developer with more than 5 years of experience. I've done dozens of personal projects such as websites with both backend and frontend, PHP/Python scripts, automation apps, desktop applications, server setup (NGINX configuration, reverse proxy, load balancers), and coding challenges.
 
 To detail my past job experiences, I can say that I've generally taken freelance jobs related to Frontend development and automation bot coding. Currently working on multiple startups as a Full-stack Web Developer and generally using MERN stack to develop web apps.
 
